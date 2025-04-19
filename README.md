@@ -24,8 +24,9 @@ Welcome to the **NLP-Beginner** repository! This project is a curated collection
 This repository is designed for anyone who wants to begin their journey in NLP. It covers key topics, basic implementations, and hands-on mini-projects using Python.
 
 ---
+## 🖼️ Overview
 
-<img src="https://www.google.com/imgres?q=nlp%20word%20cloud%20image&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20231223%2Fourmid%2Fpngtree-word-cloud-nlp-machine-png-image_10917146.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Fnlp&docid=0V4NsygOsgxH7M&tbnid=ifTolsZkPuuY7M&vet=12ahUKEwjU2O6b1OSMAxXqsFYBHfqTMvwQM3oECGwQAA..i&w=524&h=360&hcb=2&ved=2ahUKEwjU2O6b1OSMAxXqsFYBHfqTMvwQM3oECGwQAA" alt="NLP Banner" width="100%">
+<img src="https://png.pngtree.com/png-vector/20231223/ourmid/pngtree-word-cloud-nlp-machine-png-image_10917146.png" alt="NLP Banner" width="100%">
 
 
 
